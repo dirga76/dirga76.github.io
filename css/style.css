@@ -1,0 +1,55 @@
+@import url("./font.css");
+body {
+    min-height: 400px;
+    background-image: url("../assets/bgbaru.jpg");
+    color: rgb(5, 4, 4);
+}
+
+.jumbotron {
+    padding-top: 1rem;
+    background-color: transparent;
+}
+
+#projects {
+    background-color: #5d615f3a;
+}
+
+section .img-aldo {
+    margin-top: 5rem;
+}
+
+section .display-4 {
+    font-family: Lato1;
+    border-radius: 20%;
+}
+
+section .col {
+    margin-top: 12rem;
+    font-family: oswald;
+}
+
+nav .container {
+    font-family: Lato;
+    font-size: 25px;
+    color: rgb(15, 14, 14);
+}
+
+nav .container .navbar-brand {
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+}
+
+section .card .card-body .card-text {
+    font-family: Lato;
+}
+
+section .lead {
+    font-family: Lato1;
+}
+
+section .CV {
+    font-family: Lato;
+    font-size: 30px;
+    margin-bottom: 180px;
+    text-align: center;
+}
